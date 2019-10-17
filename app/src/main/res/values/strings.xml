@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewIConPresiden</string>
+    <string name="presiden_name">presiden_name</string>
+    <string name="detail">detail</string>
+</resources>
